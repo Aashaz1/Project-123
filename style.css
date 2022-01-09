@@ -1,0 +1,28 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    color: black;
+}
+
+.note{
+   color: red;
+   font-size: 18px;
+}
+
+.footer_div{
+   position: fixed;
+   width: 100%;
+   line-height: 3;
+   bottom: 0;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-weight: 900;
+}
+
+.my_background{
+    background-image: url('image.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
